@@ -1,6 +1,1359 @@
 #EXTM3U
+
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125322.jpg",History TH
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125322.jpg",History TH สำรอง
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 HISTORY TH
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 HISTORY TH สำรอง
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://sv1.picz.in.th/images/2020/11/29/jBY07z.png",true X-ZYTE
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://sv1.picz.in.th/images/2020/11/29/jBY07z.png",true X-ZYTE สำรอง
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด"tvg-logo="https://www.img.in.th/images/ec4ee7591cdbd6b3e2021ec1f2f22689.png",ANIMAL PLANET
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+
+load.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/923e54ff02f49f0c863e8fe7941e333f.png",NAT GEO WILD
+https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29 สำรอง
 https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://sv1.picz.in.th/images/2020/11/29/jBSoQe.png",Amarin
+https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://sv1.picz.in.th/images/2020/11/29/jBSJyD.png",CH 3
+https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://sv1.picz.in.th/images/2020/11/29/jBSGsy.png",CH 5
+https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://sv1.picz.in.th/images/2020/11/29/jBSeT9.png",CH 7
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/ef0bcda7c5eaa114eb216591eb25eec1.png",CH 8
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/5453b22dbbdf822f948fed803e15ab8a.png",CH 9
+https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/f5d5340087932633fdb48c2164762598.png",GMM
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/d8e28b3db8da20b7945ea0b900462a2e.png",ONE
+https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/836dadec3a8132318e2565fde3406c06.png",Workpoint
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/3743fcd284734e2ec1750d1458c1bac7.png",PPTV
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://sv1.picz.in.th/images/2020/11/29/jBSmjJ.png",Nation
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",Thai PBS(FHD)
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/ee88da6361c223d7059e8c6a60779b41.png",Thairath
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://bit.ly/3miTza9",NBT
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
+http://183.182.100.184/live/true4u/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg",PSI SARADEE
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด"tvg-logo="https://www.img.in.th/images/09a9fa551c593d89f93fc270a72ba902.png",Discovery
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg",Discovery Asia
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/70e20173a54b6a3a4be0a10ad58b7b4c.png",AXN 
+https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.img.in.th/images/a47ebe08b12d44a5720d745cf39412ad.jpg",Fox Thai
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGcoEqhcFS7d74QIM-9LoxWnj9qSV_FJGTrg&usqp=CAU",Red By HBO
+https://dootvgun.com/hbotv/hbored/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014455.jpg",Fashion Show
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",Warner
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg",Cartoon Network
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+
+#EXTINF:-1,group-title="TV รายการสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",Animax
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action 
+https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
+https://dootvgun.com/hbotv/hbohd/playlist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO สำรอง
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1 สำรอง 
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075352.jpg",Premier HD2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075352.jpg",Premier HD2 สำรอง 
+https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",Premier HD3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",Premier HD3 สำรอง 
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075435.jpg",Premier HD4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075435.jpg",Premier HD4 สำรอง 
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075457.jpg",Premier HD5
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075457.jpg",Premier HD5 สำรอง 
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1
+https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1 สำรอง 
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065618.jpg",true Sport HD2
+https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065618.jpg",true Sport HD2 สำรอง 
+https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065510.jpg",true Sport HD3
+https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065510.jpg",true Sport HD3 สำรอง 
+https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065523.jpg",true Sport HD4
+https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065523.jpg",true Sport HD4 สำรอง 
+https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013501.jpg",true Sport 1
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013501.jpg",true Sport 1 สำรอง 
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-032339.png",true Sport 2
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-032339.png",true Sport 2 สำรอง 
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013732.jpg",true Sport 3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013732.jpg",true Sport 3 สำรอง 
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013642.jpg",true Sport 4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013642.jpg",true Sport 4 สำรอง 
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",true Sport 5
+http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",true Sport 5 สำรอง 
+https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png",true Sport 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png",true Sport 6 สำรอง 
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",true Sport 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",true Sport 7 สำรอง 
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS 1 
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS 1 สำรอง 
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",beIN SPORTS 2 
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",beIN SPORTS 2 สำรอง 
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://bit.ly/36jwUVI",beIN SPORTS HD1
+https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://bit.ly/36jwUVI",beIN SPORTS HD1 สำรอง 
+https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://bit.ly/2Jm6Al3",beIN SPORTS HD2
+https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://bit.ly/2Jm6Al3",beIN SPORTS HD2 สำรอง 
+https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1 สำรอง 
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",Fox Sports 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",Fox Sports 2 สำรอง 
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",Fox Sports 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",Fox Sports 3 สำรอง 
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://www.img.in.th/images/63635cda808767584724df4bff8f4393.png",Fox Sports News 
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://www.img.in.th/images/63635cda808767584724df4bff8f4393.png",Fox Sports News สำรอง 
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA HD
+https://doofootball.livestream-cdn.com/iptv/hd-nba.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="กีฬา ถ่ายทอดสด" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA HD สำรอง
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/1dd65ea157e91263aeb034dfed0b8407.jpg",Fast 1
+https://rb.gy/zzxv7y
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/7d037f7687af178f3609369afc38f4ca.jpg",Fast 2
+https://rb.gy/lkfcuq
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/78d3432ccac39c7a108c0c525ead059e.jpg",Fast 3
+https://rb.gy/illjie
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/1ea57db975b00e251e20f243b47a3be7.jpg",Fast 4
+https://rb.gy/nvv74y
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4416d2f84e2665f5a79bc767e3c77e3b.jpg",Fast 5
+https://rb.gy/ucoi30
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/98a1e68abaebd4ea25b37058a96bbfc6.jpg",Fast 6 
+https://rb.gy/tqdvuk
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/64f0d9611373a9334f4e74ab35003804.jpg",Fast 7 
+https://rb.gy/0ccn96
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/aa7bd0131bbf875ca0d294e55fd550d9.jpg",Fast 8
+https://rb.gy/mtloup
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/08a0a8bd65e9af33fb2e70104a34ace7.jpg",Fast 9
+https://rb.gy/58f8k8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/301da28c77c573d83bdc037f948e08c0.jpg",Mulan (2020) มู่หลาน 
+https://rb.gy/yceihs
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/8069023bdbeff0501950be5728435c64.jpg",ไบค์แมน ศักรินทร์ตูดหมึก
+https://rb.gy/eh5mpk
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/9a1c82ee95cbe643fa385d2718939941.jpg",ด็อกเตอร์ ดูลิตเติ้ล
+https://rb.gy/aczs6k
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/8e97e91ad0492ef5ca2ff2912a8c99c0.jpg",ตำนานเดชนางพญางูขาว
+https://cdn-edge.cdn9x.xyz/78lfpteo/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/14bde4c15e4d90260137fd5732690299.jpg",เดชนางพญาผมขาว
+https://cdn-edge2.cdn9x.xyz/pa2cbur4/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/cee88bdc4bbcc9633065b584c17e20ca.jpg",สงครามมหาเทพประจัญบาน
+https://cdn-edge2.cdn9x.xyz/ff03s3ec/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/62593e50bfd698748d7237e4616be1d0.jpg",สงครามเทวดา
+https://rb.gy/fr2j8m
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4f3fd6793840191b966ed90f9be667c0.jpg",คิงส์แมน 1 โคตรพิทักษ์บ่มพยัคฆ์
+https://rb.gy/jbkdso
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ca83f6af851d92dccb2ef1f44526972a.jpg",คิงส์แมน 2 รวมพลังโคตรพยัคฆ์
+https://rb.gy/m4zu99
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/733ccea98069c459fda0ab4ebc36999e.jpg",Mission Impossible 1 
+https://rb.gy/adjpru
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c90e08658bafe31e87bd55bf4d71be69.jpg",Mission Impossible 2
+https://rb.gy/v3jt8g
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/a6d8ca32ff5bc182ac628233b383deb6.jpg",Mission Impossible 3
+https://rb.gy/8sdy4p
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/7c6a72c7563dcb464bd4d6355c35c8af.jpg",Mission Impossible 4
+https://rb.gy/k7kn3d
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/8e7c916448102244796e7cfb4eb4cf21.jpg",Mission Impossible 5
+https://rb.gy/cua2mh
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/488b7d72aa731a5d04fa86e9072f576a.jpg",Mission Impossible 6
+https://rb.gy/lnycvn
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/a05e5babcf4b197caaf4ffc4400aa9ba.jpg",จี้กง ใหญ่อย่างข้าไม่มี 
+https://cdn-edge1.cdn9x.xyz/2eps3q9q/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c3e554503e91c7196c954b8b6ff8f2d8.jpg",จี้กง คนบ้าหลวงจีนบ๊องส์ ภาค 1
+https://rb.gy/rjapo7
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/50d8638f47af650d1be9f3d689261105.jpg",จี้กง คนบ้าหลวงจีนบ๊องส์ ภาค 2
+https://rb.gy/i5jd7m
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/97ca6e475167379086a2eca0f240ef8e.png",จี้กง คนบ้าหลวงจีนบ๊องส์ ภาค 3
+https://rb.gy/ae7br8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c57983495c8941fae6b2190889180d16.jpg",สงครามโค่นพันธุ์อสูร ภาค 1
+https://cdn-edge1.cdn9x.xyz/ut76bru0/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/fa2030919391a95127cc5ff8c2efb277.png",สงครามโค่นพันธุ์อสูร ภาค 2
+https://cdn-edge1.cdn9x.xyz/4e3kuhe0/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/1b0fcd2053c44d2ce642b6a5ac1e6295.jpg",สงครามโค่นพันธุ์อสูร ภาค 3
+https://cdn-edge1.cdn9x.xyz/c457281d/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/9d20feedd8cc2061c34c512721704964.jpg",สงครามโค่นพันธุ์อสูร ภาค 4
+https://cdn-edge1.cdn9x.xyz/nb2p90dk/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/978a3c75ed994a76ad2da439cb903f4f.jpg",สงครามโค่นพันธุ์อสูร ภาค 5
+https://cdn-edge.cdn9x.xyz/rntf67eb/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/691cea04e1ec96992bf83313e185e4c4.jpg",แก๊งม่วน 1 ป่วนเยาวราช
+https://cdn.movietok.is/vod/disk3/movies/dtchna.mp4
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5d8a4b273435bd778334e2433fb61287.jpg",แก๊งม่วน 2 ป่วนไทยแลนด์  
+https://cdn-edge1.cdn9x.xyz/skqu4ugc/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4e35d0b329517379566d92ebeb9932f4.jpg",แก๊งม่วน 3 ป่วนนิวยอร์ก 
+https://cdn.movietok.is/vod/disk4/2cidci.mp4
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/1dfd5283673764dd7a6b6d0902573ab0.jpg",คอง มหาภัยเกาะกะโหลก
+https://cdn-edge1.cdn9x.xyz/affhenbr/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5da65cc2af10e6894669f0ad9bd0f0ab.jpg",แรมเพจ ใหญ่ชนยักษ์
+https://rb.gy/3oyphi
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/7a79bb5dfcf6c5bafc9d360236dfb9e5.jpg",Godzilla ก็อตซิลล่า
+https://cdn-edge3.cdn9x.xyz/50d48ipi/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c63b557a4d15f393e91c579363e3fa19.jpg",แรมเพจ ใหญ่ชนยักษ์
+https://cdn-edge2.cdn9x.xyz/rr3g74sk/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/993c927d4842a598e6bf0de452edb70a.jpg",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก 1
+https://cdn-edge1.cdn9x.xyz/nddbjo5t/720p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/176f6b9a0eb4f453255e82608179ca99.jpg",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก 2
+https://cdn-edge3.cdn9x.xyz/lgrohg4u/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4c5e6311c2ef5890d7553b26473e7783.jpg",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก 3
+https://cdn-edge2.cdn9x.xyz/hu25tg08/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/da1a956d6a8dcb4af5e5a854cf099c88.jpg",เต่านินจา ภาค 1
+https://cdn-edge2.cdn9x.xyz/4pvvm1nl/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/80d95763a1d9bc58c44677dbef320479.jpg",เต่านินจา ภาค 2
+https://cdn-edge1.cdn9x.xyz/hvuv6tg/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/cc3fb9da60dbffc83f18d866c07a9564.png",เดี่ยว 12 
+https://cdn-edge3.cdn9x.xyz/phnv18v8/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e061265351913bc3152a47104b2a0dcc.jpg",อควาแมน เจ้าสมุทร
+https://rb.gy/hropkc
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/cfa39dfeca00490b4007f15b027245fc.jpg",7 ประจัญบาน ภาค1
+https://cdn-edge2.cdn9x.xyz/rc6pt9cp/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/37c16cd116f96d703f57a6c328854832.jpg",7 ประจัญบาน ภาค 2
+https://cdn-edge2.cdn9x.xyz/fptcrg8q/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/edf215803a2a104de577c75500c0b76d.jpg",ฝ่า 7 นรกไปกับพระเจ้า 1
+https://cdn-edge2.cdn9x.xyz/mjqcuegv/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ecc3153421369ca6a0f276e8c7b844fe.jpg",ฝ่า 7 นรกไปกับพระเจ้า 2
+https://cdn-edge.cdn9x.xyz/94mg5q0s/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/670848da407240226c2ab35e9ca28a57.jpg",ตี๋เหรินเจี๋ย 1 ดาบทะลุคนไฟ 
+https://cdn-edge3.cdn9x.xyz/l0j9onin/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/8ecb68e600b6c1a8172f392c583cafaa.jpg",ตี๋เหรินเจี๋ย 2 ผจญกับดักเทพมังกร
+https://cdn-edge1.cdn9x.xyz/ebma7mnp/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/0a61254472da9e185044d73807c5f420.jpg",ตี๋เหรินเจี๋ย 3 ปริศนาพลิกฟ้า 4 จตุรเทพ
+https://cdn-edge1.cdn9x.xyz/mbfv6f4p/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ad0f08e82dd6597d1789f5ab948d021f.jpg",ตี๋เหรินเจี๋ย 4 พลิกแฟ้มคดีของตี๋เหรินเจี๋ย
+https://cdn-edge3.cdn9x.xyz/bdjophah/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/871bc6deb09f9883df32b1724acac5e8.jpg",คู่ใหญ่ฟัดเต็มสปีด ภาค 1
+https://cdn-edge1.cdn9x.xyz/kacvgsa3/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/96279cab15c4d434763747627bf9cf40.jpg",คู่ใหญ่ฟัดเต็มสปีด ภาค 2
+https://cdn-edge1.cdn9x.xyz/53suec9r/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/3a223738faafc7eef6b002ba2dba1326.jpg",คู่ใหญ่ฟัดเต็มสปีด ภาค 3
+https://cdn-edge3.cdn9x.xyz/vfm1s66o/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/f562a1582dd1943d9eac5fa479f74ee0.png",คนตัดคน ภาค 2
+https://cdn-edge2.cdn9x.xyz/aio1omkq/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/d274e5815a5af9d8bbacd4d4ac6a0456.jpg",คนตัดคน ภาค 3
+https://cdn-edge3.cdn9x.xyz/5p2n048f/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/846645550a6f829bcc8b9b3f0764639b.jpg",คนตัดคน ภาค 4
+https://cdn-edge2.cdn9x.xyz/gmdv715t/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/a0ba915aa8668fa7790a8f43ee267fd0.jpg",ลินคอล์น นักล่าแวมไพร์
+https://cdn-edge3.cdn9x.xyz/nidhha52/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/9f7b43fcd917042514127761c474aa0a.jpg",คนเล็กหมัดเทวดา
+https://cdn-edge2.cdn9x.xyz/3c63pi9a/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c1943409662e35071cb562bb6b6c2406.jpg",อย่าแหย่โซฮาน
+https://cdn-edge2.cdn9x.xyz/dovqjjpv/720p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/3010183f3250414856a26fd75a405968.jpg",วาย ฮิม ทำไมต้องคนนี้ 
+https://cdn-edge2.cdn9x.xyz/3vk09qnt/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4f2c7ba2f1fe744f981bbebad788e786.jpg",John Wick 1
+https://rb.gy/3smmsw
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/2375801c89229e18f21342044ea86b1b.jpg",John Wick 2
+https://rb.gy/5sxmna
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4d6e35f3cec62a4cc2dfb90bc396f4fa.jpg",John Wick 3
+https://rb.gy/omxjb2
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c5e4b2167834cd3e15772438ec65b9c4.jpg",คนเล็กไม่เกรงใจนรก
+https://cdn-edge2.cdn9x.xyz/b63jvr20/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/46fb853d50cb238da62efbd813dc4944.jpg",คนเล็กนักเรียนโต 1
+https://cdn-edge1.cdn9x.xyz/reva3j3v/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/23b0f37933a916ff7f04e7d542638ddc.jpg",คนเล็กนักเรียนโต 2
+https://cdn-edge1.cdn9x.xyz/7kbp8v5f/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/af312267b40bc3aafdffc4831e16450a.jpg",My Hero คนอยากหญ่ายส์
+https://cdn-edge1.cdn9x.xyz/cbevnkib/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/992ee92d03f7afe204c21edae8d9300a.jpg",จัมพ์เปอร์ ฅนโดดกระชากมิติ
+https://cdn-edge2.cdn9x.xyz/3fo7e24u/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/d4f0bc2db93cbc748cf78c171f7ef604.jpg",ล่าทะลุศตวรรษ ภาค1
+https://cdn-edge2.cdn9x.xyz/2fmta79h/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/65a20240c35d83eca4e0396cfbd68f9a.jpg",ล่าทะลุศตวรรษ ภาค2
+https://cdn-edge.cdn9x.xyz/l4uea24o/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e8662428f2942c5adf1a93bcd7c1391d.jpg",แบทแมน บีกินส์  
+https://rb.gy/a6c05x
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/fcfc690e76fd6ffd70979759e576e227.jpg",แบทแมน อัศวินรัตติกาล 
+https://rb.gy/wrmczl
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/70e48cbfe9ac2768e970f6a5979deb02.jpg",แบทแมน อัศวินรัตติกาลผงาด 
+https://rb.gy/lriosp
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/f81fa46aaeea5386ffd48e58b888a8e3.jpg",Iron Man 1 
+https://rb.gy/juhwt4
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ff16f60048db407f45ea7ec6e8b13d97.png",Iron Man 2 
+https://rb.gy/kfzrmo
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/747ae3b3c96eb20e74e26b32533c3fc6.jpg",Iron Man 3 
+https://rb.gy/twjphp
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5bd166130a7699af153c2e868de8a44a.jpg",Captain America 1 
+https://rb.gy/my57e8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/3cab240ae78d5de12a55944c2bbb3f52.jpg",Captain America 2
+https://rb.gy/cmszvi
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/d533d6b15dc5b4b2d9d392a2b7464398.jpg",Captain America 3 ศึกฮีโร่ระห่ำโลก
+https://rb.gy/f3xpxr
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/22414fd3189ab5d96d65f3cc6eeb4ef5.jpg",Captain Marvel กัปตัน มาร์เวล
+https://rb.gy/ofhtpy
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/2a5819af1d0f5b233c3ed4547660e5a8.jpg",Doctor Strange จอมเวทย์มหากาฬ
+https://rb.gy/farmqe
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/2e06725d81f29b45757829afd051920d.jpg",The Avengers 1
+https://rb.gy/ioqyrc
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/2575841114990f42c128dc647a18cc87.jpg",The Avengers 2
+https://rb.gy/i0qynj
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/cdc470a806e686efa5b84b0a47395c65.jpg",The Avengers 3
+https://rb.gy/akptyi
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c492fca51565f8bd6dad8a602aa17da5.jpg",The Avengers 4
+https://rb.gy/yjrn6c
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/9fbb356a0327a84a3d2970b35bd9a54f.jpg",รวมพันธุ์นักสู้พิทักษ์จักรวาล 1
+https://rb.gy/6mj3fh
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/da957aed631e6ec8a99c1d5c055fce24.jpg",รวมพันธุ์นักสู้พิทักษ์จักรวาล 2
+https://rb.gy/lmyku5
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/722bc577cb5084cc2b8920848400b2a4.jpg",แบล็ค แพนเธอร์
+https://rb.gy/ttx9se
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/b2a8253d0aab088ae517777cd04dddf2.jpg",วันเดอร์ วูแมน
+https://rb.gy/tqmagi
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/2fc6e93a850751092454004fa435714c.jpg",มนุษย์มดมหากาฬ 1
+https://rb.gy/ae06bc
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/03e0516af0e1f514441faa322e4aa360.jpg",มนุษย์มดมหากาฬ 2
+https://cdn-edge2.cdn9x.xyz/oh5f2dpi/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5ed0f749934d89a38d33d446818d4fa2.jpg",เดดพูล 1
+https://cdn-edge2.cdn9x.xyz/cuho7veo/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/98428bd4e3093d280cc0189e6309c823.jpg",เดดพูล 2 
+https://rb.gy/hgzw5o
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/cc506e80b9d4bef1ca4f0dafb9a12945.jpg",Thor 1 เทพเจ้าสายฟ้า
+https://cdn-edge.cdn9x.xyz/k5ciciro/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/993a154824092894e0f5a6cf1e45e46e.jpg",Thor 2 เทพเจ้าสายฟ้าโลกาทมิฬ
+https://cdn-edge.cdn9x.xyz/ccfq12vi/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/bcbe5771753593a171a6ca006076a351.jpg",Thor3 ศึกอวสานเทพเจ้า
+https://rb.gy/wggsby
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/665f1e95fb48e21200929960729e31e3.jpg",Justice League จัสติซ ลีก 
+https://rb.gy/ap8r7t
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4db2114034aaa5fc0591b64efc710b91.jpg",แบทแมน ปะทะ ซูเปอร์แมน 
+https://rb.gy/igmzd3
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/de18f87e68ca1f725a88bf7c1d1857ff.jpg",Spy สปาย
+https://cdn-edge2.cdn9x.xyz/aaa4d8k6/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/2119b4ca492490cf8f4f026efcc49b55.jpg",ทรอน ล่าข้ามโลกอนาคต
+https://rb.gy/rvpxpo
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/b9bd1f7376c13bd01403fb96c1328c43.jpg",ล่าขุมทรัพย์ลึกใต้โลก
+https://cdn-edge2.cdn9x.xyz/pmqgne5o/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/7a3e25db344b09b7c36304a343a18e15.jpg",ผจญภัยพิทักษ์คริสต์มาส 
+https://cdn-edge2.cdn9x.xyz/k8brstg7/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/fd9622da5fd5df4c59fd6d387afc810e.jpg",มหาสงครามทะเลทรายแห่งกาลเวลา
+https://cdn-edge2.cdn9x.xyz/d67q4714/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/9914d0ce8b0a328266c6f2171d2d8c74.jpg",xXx ทริปเปิ้ลเอ็กซ์ 1
+https://cdn-edge2.cdn9x.xyz/aobl8uco/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/454af12f6e813dcc5abdc10f0f71b51b.jpg",xXx ทริปเปิ้ลเอ็กซ์ 2
+https://cdn-edge2.cdn9x.xyz/55vc9ibv/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/369180d9d7a2a8561200242a121ab45e.jpg",xXx ทริปเปิ้ลเอ็กซ์ 3
+https://cdn-edge2.cdn9x.xyz/edhnjmbt/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e392625e8a0a60d6b41837265e7eb33c.jpg",โคตรคนทีมมหากาฬ ภาค 1 
+https://cdn-edge2.cdn9x.xyz/itpeqqf3/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/41c43683910c1adf2953a89c138a1e64.jpg",โคตรคนทีมมหากาฬ ภาค 2
+https://cdn-edge2.cdn9x.xyz/o8ll16g9/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5e190ca5a4b9434bf19ca484090379e0.jpg",โคตรคนทีมมหากาฬ ภาค 3
+https://cdn.movietok.is/vod/disk3/movies/texxdb3.mp4
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/843a970373e564973cd54d8449200f63.jpg",ลูกหลานใครหว่า 
+https://cdn-edge2.cdn9x.xyz/h4sbl6vr/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/d97a85675e1756251ce8a2099e21d84e.jpg",อาชญากลปล้นโลก ภาค 1
+https://cdn-edge.cdn9x.xyz/sal5ebb8/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4eeafe5c0a06076d3bf9309f25a35649.jpg",อาชญากลปล้นโลก ภาค 2
+https://cdn-edge2.cdn9x.xyz/0rsjbu5o/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/a9676a112852160bd8c5d2152342851d.jpg",ศึกหุ่นเหล็กกำปั้นถล่มปฐพี
+https://cdn-edge2.cdn9x.xyz/87sl23e0/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/f876ce37025e57b11d15ca2d75998e65.jpg",หอคอยทมิฬ
+https://cdn-edge2.cdn9x.xyz/lqc3j0mv/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ece98813adec35c7d2fd8ce430da1827.jpg",ยุทธการเรือรบพิฆาตเอเลี่ยน
+https://cdn-edge2.cdn9x.xyz/qb7d834q/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c243aeb51ea6cc2146056f4fde2d4941.jpg",สงครามป่วน (ตัว) พ่อสุดแสบคูณ 1
+https://cdn-edge2.cdn9x.xyz/hqdu0ucr/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/37e107b928bddb3d97800ffe09e5a424.jpg",สงครามป่วน (ตัว) พ่อสุดแสบคูณ 2
+https://cdn-edge3.cdn9x.xyz/fprb5t80/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/32bd5d1012ef0c1581f51490cb1050b5.jpg",คู่ป่วนมือปราบปืนหด 
+https://cdn-edge2.cdn9x.xyz/baiqcjem/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/683238fbcf4d6c3005af023d0a1311e7.jpg",รักสุดท้ายของนายไฮโซ
+https://cdn-edge3.cdn9x.xyz/6671jj6o/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/3303829986f5badbafa234c3169cc5f3.jpg",ทแมน โคตรเพชฌฆาต 47
+https://cdn-edge2.cdn9x.xyz/di9c5t8d/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/89db60a85b9811934c05a0afb0b636b0.jpg",คนหมาเดือด
+https://cdn-edge2.cdn9x.xyz/r1i0o1ui/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5021560de83e19582d03e1a8eb14373a.jpg",Looper ทะลุเวลา อึดล่าอึด 
+https://cdn-edge2.cdn9x.xyz/ps9vol4l/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/064472ed0bcf71aafc20384a8248ec08.jpg",ปฏิบัติการยึดดาวอนาคต
+https://cdn-edge2.cdn9x.xyz/6sa5olf1/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/cac64eaf12b37e8c35a4b8bfeb7c5f38.jpg",พยัคฆ์ฉลาด เก็กไม่เลิก
+https://cdn-edge.cdn9x.xyz/jbpmqr0k/720p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ace2b2bd43ec692d4534c6b10f8c95f3.jpg",สงครามเกมคนอัจฉริยะ
+https://cdn-edge2.cdn9x.xyz/7j423iib/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/b261d9f0348daa88292701f8e59f4729.png",อุบัติการณ์โลกลืม 
+https://cdn-edge.cdn9x.xyz/1g3d4nbp/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/f9331646400873ae8bc12f3df84f9db9.jpg",In Time ล่าเวลาสุดนรก
+https://rb.gy/yrza40
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/612e5bac06bbf0bdea62932c60578d1c.jpg",พยัคฆ์ร้ายพันธุ์เก๋า
+https://cdn-edge.cdn9x.xyz/b3meuue5/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ecdeedd0d68b4674983787facad9d512.jpg",สวยสังหาร
+https://cdn-edge.cdn9x.xyz/1pep88bc/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/7f815a6b8ce2ab50818d5e75563e292b.jpg",แอนนา สวยสะบัดสังหาร 
+https://cdn-edge.cdn9x.xyz/tpaen87q/720p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c9f1b639460639be7687289f4fad8cb8.png",มาเลฟิเซนต์ 1 กำเนิดนางฟ้าปีศาจ
+https://rb.gy/sjz88g
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ee7cf2767784d97cb802c48a652887b1.jpg",มาเลฟิเซนต์ 2 นางพญาปีศาจ
+https://rb.gy/qajvdl
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/258ed449f9ff9f6048bc4dfcbf6e7b4a.jpg",คู่ฮ็อตซ่าส์ ล่าให้ว่อง
+https://cdn-edge.cdn9x.xyz/3suvo7pe/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/849446a562e71c012eb65bbd864d174a.jpg", Pixels พิกเซล
+https://cdn-edge.cdn9x.xyz/o4jqv3u8/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e9f3db916af7b424d7b27414088b30f2.jpg",แฮนค็อค ฮีโร่ขวางนรก 
+https://cdn-edge.cdn9x.xyz/o2olnqjq/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/db286af447ad5a27f33a4a8cd04a0396.jpg",เพื่อนบ้านมหา(บรร)ลัย ภาค 1 
+https://cdn-edge.cdn9x.xyz/ag5e2e4d/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/a92a478e985eb2755e2ce9257b060349.jpg",เพื่อนบ้านมหา(บรร)ลัย ภาค 2
+https://cdn-edge.cdn9x.xyz/8e739e1b/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/a96a5bedcf89acbf6cfe129777006b0c.jpg",Avatar อวตาร
+https://rb.gy/nayovn
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/7a03fec1803efb6e3fd3b19a5102d7f0.jpg",อัจฉริยะคนบัญชีเพชฌฆาต
+https://rb.gy/mizakc
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5b14fb9183916a98ad6dc1426417a713.jpg",อัจฉริยะจารกรรมเขย่ามหาอำนาจ
+https://cdn-edge.cdn9x.xyz/5mposhm/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ee91fd077fc9f9cf64e3b1b38c8e711a.jpg",คู่สืบ คู่แสบ
+https://cdn-edge.cdn9x.xyz/041mdkf5/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/d2a498de0b27fbeab93d7db45c7fcb49.jpg",ซูเปอร์ นักรบดับทัพอสูร
+https://cdn-edge.cdn9x.xyz/2448471o/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/9e4364df46ee796359c53d0c702ad9d8.jpg",เอ-ทีม หน่วยพิฆาตเดนตาย
+https://cdn-edge.cdn9x.xyz/6ndmbj53/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/40d345e7bfa96cad6a2f0f2e76fdc283.jpg",นักล่าแม่มดพันธุ์ดิบ 
+https://rb.gy/4rlwz0
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/1b25eed52d45d41b2ab00df5972d5851.jpg",ออซ มหัศจรรย์พ่อมดผู้ยิ่งใหญ่
+https://cdn-edge.cdn9x.xyz/2mvon4qk/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/a7808d5e70aa4d5535f2616a58e92896.jpg",บุรุษเหล็กซูเปอร์แมน
+https://rb.gy/n6ru7d
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/629e463a29cf4a406fb75f221ac0633e.jpg",โปลิศ โคตรแมน
+https://cdn-edge.cdn9x.xyz/4g3rbn19/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/1a9a8685c6c93007fb902771848b8b9d.jpg",สงครามมหาเทพพิโรธ
+https://cdn-edge.cdn9x.xyz/6gamoub3/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/61ba182438e49986a13c59e91a5975b2.jpg",อุ้ยเสี่ยวป้อ จอมยุทธเย้ยยุทธจักร 1
+https://cdn-edge.cdn9x.xyz/mj9b0dum/720p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/b98617bee37cb5a942249cc572390739.jpg",อุ้ยเสี่ยวป้อ จอมยุทธเย้ยยุทธจักร 2
+https://cdn-edge1.cdn9x.xyz/g7ahrdnp/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/db4144bdba4607fda9debe8414c895fc.jpg",วอร์คราฟต์ กำเนิดศึกสองพิภพ
+https://cdn-edge.cdn9x.xyz/7dl20ins/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/3e9c9b9daebe99a72b9a4a191899ad4a.jpg",คนจะรวย ช่วยไม่ได้
+https://cdn-edge.cdn9x.xyz/f0i3aelb/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/bbab873157e5ba93bee32d5475e528ad.jpg",เชอร์ล็อค โฮล์มส์ 1
+https://cdn-edge3.cdn9x.xyz/1k3qp93h/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/f1f8240cf7747e04808dbeb7d74d4e26.jpg",เชอร์ล็อค โฮล์มส์ 2
+https://cdn-edge.cdn9x.xyz/8ndpnal3/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/a6ab2743140cf77816cab3fdb1474956.jpg",Grimsby พี่น้องสายลับ
+https://cdn-edge.cdn9x.xyz/e14msu0e/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/931b9966e4070179e6eef9b6ea28afec.jpg",เพชฌฆาตแม่มด
+https://cdn-edge.cdn9x.xyz/6etgag9o/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/d7d98c17b324a26d990b91c5f6058f49.jpg",ดาบปราบเทวดา
+https://cdn-edge.cdn9x.xyz/1c7eabj0/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/637d11818c53bc6fae641cdd6d7507cd.jpg",สงครามอสูรเหล็ก ภาค 1
+https://cdn-edge.cdn9x.xyz/4cc8d40q/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/adf050ac9ee0074310c15274fc95053d.jpg",สงครามอสูรเหล็ก ภาค 2
+https://cdn-edge.cdn9x.xyz/dgp3qvu4/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/80adb391ec61d4afa0e07232459aa25f.jpg",Hacker อัจฉริยะแฮกข้ามโลก
+https://cdn-edge.cdn9x.xyz/n8o2lddt/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e3abfa53acd582cade25b03ec1e252df.jpg",มหาวิบัติสงคราม Z
+https://cdn-edge1.cdn9x.xyz/q7no09dq/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/fb9ab945c824b6022c4a5759f261a9fd.jpg",Fist Fight ครูดุดวลเดือด
+https://cdn-edge1.cdn9x.xyz/r29h13db/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e4474cf45158ea03c520f7fb825158c0.jpg",ตำนานแห่งทาร์ซาน
+https://cdn-edge3.cdn9x.xyz/taou8bs5/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/f44bfab962f87a3d24130d3cc35bc4f8.jpg",พรานป่าและราชินีน้ำแข็ง
+https://cdn-edge3.cdn9x.xyz/vcgbad6e/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e23d70637624f55d217feabe38bf9262.jpg",สวยล้างโคตร
+https://cdn-edge3.cdn9x.xyz/c0fji6i2/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/8e9e7b5115d06f3fd69165bbdc1ef61d.jpg",จี้ เบบี้ ปล้น 
+https://rb.gy/rxlwjn
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5e1d972eca975f4c44ab7c72bf535c6a.jpg",ศึกเทพนิยายเจ้าชายพันธุ์เพี้ยน 
+https://cdn-edge1.cdn9x.xyz/emsbum50/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/97caf361bed9c61ebbb6a390baafd1cb.jpg",แจ็คผู้สยบยักษ์ 
+https://cdn-edge3.cdn9x.xyz/bl5s8qis/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c1e3f24620ee6cc85d3a195b4b5e895c.jpg",แวมไพร์มึนยุค 
+https://cdn-edge3.cdn9x.xyz/u0a5d7av/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/df90eed47a6fd66ae01e1987063e22a4.jpg",สั่งเจ้าพ่อไปสอนหนังสือ
+https://cdn-edge2.cdn9x.xyz/2ikla943/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/40c52214c2ae16f75c3fd902c5962cef.jpg",สั่งเจ้าพ่อไปเรียนหนังสือ
+https://cdn-edge2.cdn9x.xyz/ld233d43/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/efc55089cd306b008c015903efae1104.jpg",6 ลับ ดับ โหด
+https://rb.gy/xqqkqu
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/7f39b1e4578d1e921804e364f0b3cd68.jpg",คู่หูขวางนรก ตลอดกาล 1
+https://rb.gy/e3nbey
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/24bcdef71f4dd4b31b1d121c6dc2c785.jpg",คู่หูขวางนรก ตลอดกาล 2
+https://rb.gy/3bum5n
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/db3a6ba9c5d4abc011cebb5b5cff9da7.jpg",คู่หูขวางนรก ตลอดกาล 3
+https://rb.gy/pvkizh
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/bdbd577aa7ed7a29b1a92c5f6be999a1.jpg",อัศวินต่อมหลุด หลงยุค 
+https://cdn-edge1.cdn9x.xyz/ei84ap06/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/6c13c06119ac3c56f52fdd668f2dd63d.jpg",ดิ โอลด์ การ์ด
+https://cdn-edge1.cdn9x.xyz/k1telee0/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/9f9ac034d324c7ff41c4ef8c743849b6.jpg",ขุนแผน ฟ้าฟื้น
+https://cdn-edge2.cdn9x.xyz/slj6mnlp/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/f5b01fda7742a054b9144603418ab920.jpg",พอลบลาร์ทยอด รปภ.หงอไม่เป็น 1
+https://cdn-edge2.cdn9x.xyz/jhsv81t9/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c0ddb0bee6c755d8d3215ae9733fb5f2.jpg",พอลบลาร์ทยอด รปภ.หงอไม่เป็น 2
+https://cdn-edge2.cdn9x.xyz/985rhlsb/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/dcdf94d4b7c5d07140da96e814e6c6d9.jpg",สาวหมวกแดง
+https://cdn-edge1.cdn9x.xyz/b4m98dnq/1080p.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/9569e6235d1e0fe5d4ddddeaa8791ddd.jpg",ลูซี่ สวยพิฆาต 
+https://rb.gy/syqd4y
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/af9cf5fd54bf011511f95c3364489847.jpg",โรนิน มหาศึกซามูไร
+http://upmovie2.dyndns.biz:8081/VOD/47-ronin-4k.mp4/chunk.m3u8?nimblesessionid=4978828
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/4af6d0cb989ad56953bf36d005857f3d.jpg",ซูเปอร์นักรบดับทัพอสูร 
+https://rb.gy/mym8pd
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ddba8e874d4164caf18eabaeafedcf08.jpg",จักรกลเลือดดุ
+https://rb.gy/5lqaya
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c4b8b107b581449a0e4d15a1aef1b826.jpg",Jumanji เกมดูดโลก 1
+https://cdn-hls.com/Movie/RC5ueJ4HWzzwq6Dw.mp4.m3u8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/ce80b55696866f99c11326e921f4b891.jpg",Jumanji เกมดูดโลก 2
+https://rb.gy/ompvmg
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/d46ef8bf7b45dd58dd589cc54ae2d2d2.jpg",Godzilla 1 ก็อตซิลล่า 1
+https://rb.gy/3dcpf8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/5f61a01edb584b9a0405d8e90f96fc4f.jpg",Godzilla 2 ก็อตซิลล่า 2
+https://rb.gy/uzohb8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/0fdc401c8d53601d7ae812fbb716d622.jpg",เอ็มไอบี 1
+https://rb.gy/5rcaok
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/2faff18062e21da125c70278d6f794d4.jpg",เอ็มไอบี 2
+https://rb.gy/nzfge1
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/cdbe60b53e7aa1cd11f0ad030d2cf2b8.jpg",เอ็มไอบี 3
+https://rb.gy/iyh9yw
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/dd2737d48c3951e3c661aded503c4108.jpg",เอ็มไอบี 4
+https://rb.gy/iwgito
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/d0291260af75ff6100dbd9fbc83e88b4.jpg",จักรกลเปลี่ยนโลก
+https://rb.gy/sbycxx
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/245e70b261c064db36de3740792d98e5.jpg",ซินเดอเรลล่า
+https://rb.gy/fbgpjd
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/489a2325a5ef34a4fe4e1322b552ab6a.jpg",ไลฟ์การ์ดฮอตพิทักษ์หาด
+https://rb.gy/f7kx8r
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e60788d2b9eca95d0ace169aa8cc8589.jpg",เดอะ ฮอบบิท 1
+https://rb.gy/qzq8ga
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/93c391e545b783274921aafde9c03430.jpg",เดอะ ฮอบบิท 2
+https://rb.gy/ofooyl
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/cc14027f1e5d7e1b390750406aaa2e9f.jpg",เดอะ ฮอบบิท 3
+https://rb.gy/8zmblk
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e57dd346c7b7158ba407819d2e3eb4e4.jpg",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก 1
+https://rb.gy/ujfxg6
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/e52b6f96ad038d247a6da741c0dbcfe0.jpg",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก 2
+https://rb.gy/gkx6nz
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/daa35af4922b8b43d557b96c18d8af2a.jpg",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก 3
+https://rb.gy/5fqfsw
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/37ae083a6b3ab6a5f2e44178d838f6a2.jpg",Venom เวน่อม
+https://rb.gy/ilunz0
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/c88cf73ae01be8828e67738dea86c837.jpg",โกสต์อินเดอะเชลล์ 
+https://rb.gy/1grzd8
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/02ee3d4e3e93916d53557761ec1c1de8.jpg",แก๊งคนซ่าส์ล่าซอมบี้
+https://rb.gy/foyal6
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/17e038a96a34615ed7d883eb5ab906ee.jpg",สงครามอสูรเหล็ก 1
+https://rb.gy/rh1bvp
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/045e9aca1906ee8700180c35be6e5f85.jpg",สงครามอสูรเหล็ก 2
+https://rb.gy/x1mqbn
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/b7e3839d269f33238ffaebb4dee817ce.jpg",แดร็กคูล่า ตำนานลับโลกไม่รู้
+https://rb.gy/ja1ueu
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/fd924ea22b8ad0091efd4a165e6f3d10.png",เต่านินจา 1
+https://rb.gy/vzbzer
+
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img.in.th/images/b77ab840bb7deef3ae361d1452fa9e36.jpg",เต่านินจา 2
+https://rb.gy/tf0oqb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/fe742df608b75e91d9f08b6169f652e0.jpg",The Angry Birds 1
+https://cdn-edge.cdn9x.xyz/1ugpasbj/1080p.m3u8
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/e20e4d0529f78bd0a3e5a1699305ebd4.jpg",The Angry Birds 2
+https://cdn-edge2.cdn9x.xyz/dggiq948/1080p.m3u8
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/a01c3a99850fc1339d1e87ea09a0d8e9.jpg",Ne Zha นาจา
+https://feplayer.net/file/1/88db182f6992cb8e04445be1e19a27f5/femaster.m3u8
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/c7b7c3536c82caced88736473cea3261.jpg",ตัวบั๊กส์ หัวใจไม่บั๊กส์ 
+https://rb.gy/hd9oun
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/8d986094e49cb849e76a2da9ee21e83c.jpg",บิ๊กฮีโร่ 6
+https://rb.gy/jg6nsj
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/2e34596c9fdcff6ed3c2abc841527d9d.jpg",ซูโทเปีย นครสัตว์มหาสนุก
+https://rb.gy/cjt80f
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/3cfe90cdc502a1c63de9ef7c2929ddd8.jpg",ผจญภัยตำนานหมู่เกาะทะเลใต้
+https://rb.gy/3vvcry
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/5f32a42a4223e8db810406b8205610dd.jpg",โปเกมอน ยอดนักสืบพิคาชู
+https://rb.gy/3qs72b
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/7f69d6cfa0cc92e6607fed1bbdd998c6.jpg",Toy Story 1
+https://rb.gy/xrttev
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/cbf135cf809fba4b776758be6d1b735e.jpg",เดอะ บอส เบบี้
+https://rb.gy/ua4xgj
