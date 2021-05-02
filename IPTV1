@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV รายการสด" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29 สำรอง
+https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
